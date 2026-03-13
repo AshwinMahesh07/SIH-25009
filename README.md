@@ -91,7 +91,7 @@ Eco points are awarded based on task completion.
 
 Players unlock characters with special abilities as they progress.
 
-If a daily task is missed, the player must defeat additional monsters before progressing.
+If a daily task is missed, the player must defeat additional monsters before progressing,they may be very tough to handle carefull!!!
 
 After every 7 levels, players fight a major environmental monster and earn bonus rewards.
 
